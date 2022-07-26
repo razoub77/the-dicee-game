@@ -14,4 +14,4 @@ function play() {
     }
 }
 
-document.querySelector("button").setAttribute("onclick", "play()")
+document.querySelector("button").addEventListener("click", play);
