@@ -1,2 +1,2 @@
 # the-dicee-game
-Dice game challenge from AppBrewery
+Dice game website as a part of Web Development Bootcamp from AppBrewery
